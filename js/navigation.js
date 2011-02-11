@@ -5,8 +5,11 @@ function setContent(name) {
     /* Remove extra parts from the URL */
     name = name.replace(/\/.*$/, "");
 
+    /* Set the content when we receive it */
     $.get('data/pages/' + name + '.html', function(data) {
+        $('#content').hide();
         $('#content').html(data);
+        $('#content').fadeIn();
     });
 }
 
