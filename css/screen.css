@@ -1,0 +1,78 @@
+html {
+    background-color: white;
+    font-family: sans-serif;
+    text-align: center;
+    color: rgb(150,150,150);
+}
+
+body {
+    margin: 0px;
+}
+
+a {
+    color: rgb(150,150,150);
+}
+
+h1 {
+    font-size: 140%;
+    text-align: center;
+}
+
+#main {
+    margin: 0px auto 20px auto;
+    width: 760px;
+    text-align: justify;
+}
+
+#navigation {
+    margin: 20px 0px 40px 0px;
+    border-width: 0px 0px 2px 0px;
+    border-style: solid;
+    border-color: rgb(150,150,150);
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+#navigation a {
+    text-decoration: none;
+    padding: 0px 10px 0px 10px;
+    text-transform: uppercase;
+}
+
+#navigation a:hover {
+    color: rgb(100,0,0);
+}
+
+#gallery-previous {
+    margin-top: 20px;
+    float: left;
+    width: 32px;
+    height: 64px;
+    background-image: url( "../images/previous.png" );
+}
+
+#gallery-previous:hover {
+    background-image: url( "../images/previous-hover.png" );
+}
+
+#gallery-next {
+    margin-top: 20px;
+    float: right;
+    width: 32px;
+    height: 64px;
+    background-image: url( "../images/next.png" );
+}
+
+#gallery-next:hover {
+    background-image: url( "../images/next-hover.png" );
+}
+
+#gallery-description {
+    text-align: center;
+}
+
+#footer {
+    margin-top: 40px;
+    font-size: 60%;
+    text-align: center;
+}

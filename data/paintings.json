@@ -1,0 +1,19 @@
+[
+    {"src": "data/paintings/bicycle.jpg", "description": "bicycle, 40x50 cm, 2008"},
+    {"src": "data/paintings/tree_1.jpg", "description": "tree 1, 50x40 cm, 2008"},
+    {"src": "data/paintings/pigeon.jpg", "description": "pigeon, 40x30cm, 2008"},
+    {"src": "data/paintings/reading.jpg", "description": "reading, 40x50cm, 2008"},
+    {"src": "data/paintings/knitting.jpg", "description": "knitting, 40x55cm, 2008"},
+    {"src": "data/paintings/nylons.jpg", "description": "nylons, 40x24cm, 2008"},
+    {"src": "data/paintings/red_shoes.jpg", "description": "red shoes, 40x80cm, 2006"},
+    {"src": "data/paintings/alternatieve_route.jpg", "description": "alternatieve route, Waasmunster, 2006"},
+    {"src": "data/paintings/white_sandal_heels.jpg", "description": "white sandal heels, 18x24cm, 2007"},
+    {"src": "data/paintings/shoes.jpg", "description": "shoes, 3x70x60cm, 2006"},
+    {"src": "data/paintings/shoes_i.jpg", "description": "shoes 1, 70x60cm, 2006"},
+    {"src": "data/paintings/still_life_with_cups.jpg", "description": "still life with cups, 50x60cm, 2005"},
+    {"src": "data/paintings/still_life_with_skulls.jpg", "description": "still life with skulls, 50x60cm, 2005"},
+    {"src": "data/paintings/view.jpg", "description": "view, peperkoekfabriek Lokeren, 2006"},
+    {"src": "data/paintings/broken_dreams_22_28.jpg", "description": "broken dreams 22 &amp; 28, 24x18cm, 2006"},
+    {"src": "data/paintings/waiting_5.jpg", "description": "waiting 5, 60x50cm, 2003"},
+    {"src": "data/paintings/foolish_mother_1.jpg", "description": "foolish mother 1, 60x50cm, 2002"}
+]
