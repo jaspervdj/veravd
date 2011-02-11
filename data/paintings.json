@@ -1,4 +1,10 @@
 [
+    {"src": "data/paintings/red_box_02.jpg", "description": "red box 2, 40x50cm, 2011"},
+    {"src": "data/paintings/plant_01.jpg", "description": "plant, 13x18cm, 2010"},
+    {"src": "data/paintings/princess_01.jpg", "description": "princess 1, 90x70cm, 2009-10"},
+    {"src": "data/paintings/princess_02.jpg", "description": "princess 2, 100x70cm, 2009-2010"},
+    {"src": "data/paintings/princess_03.jpg", "description": "princess 3, 80x90cm, 2009-2010"},
+    {"src": "data/paintings/plant_02.jpg", "description": "plant, 50x40cm, 2010"},
     {"src": "data/paintings/bicycle.jpg", "description": "bicycle, 40x50 cm, 2008"},
     {"src": "data/paintings/tree_1.jpg", "description": "tree 1, 50x40 cm, 2008"},
     {"src": "data/paintings/pigeon.jpg", "description": "pigeon, 40x30cm, 2008"},
